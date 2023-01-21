@@ -1,0 +1,29 @@
+{
+  "infos": {
+    " username": "",
+    "email": "",
+    "password": "Password123",
+    "firstname": "toto",
+    "lastname": "tata",
+    "phone": "0556699636",
+    "country": "France",
+    "address": "92 rue des roses",
+    "city": "Bordeaux",
+    "state": "Gironde",
+    "postal_code": "33000"
+  },
+  "products": {
+    "category": "Speakers",
+    "name": "Bose Soundlink Bluetooth Speaker III",
+    "colorDefault": "BLACK",
+    "Color": "GRAY"
+  },
+  "new_address": {
+    "address": "14 avenue des sables",
+    "city": "Mérignac",
+    "postal_code": "33700"
+  },
+  "payment": {
+    "paymentMethod": "safepay"
+  }
+}
